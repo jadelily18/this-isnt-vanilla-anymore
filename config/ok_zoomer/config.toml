@@ -6,7 +6,7 @@
 	# "MULTIPLIED" is a multiplied variant of "VANILLA".
 	# options: OFF, VANILLA, MULTIPLIED
 	# default: OFF
-	cinematic_camera = "OFF"
+	cinematic_camera = "MULTIPLIED"
 	# Reduces the mouse sensitivity when zooming.
 	# default: true
 	reduce_sensitivity = true
