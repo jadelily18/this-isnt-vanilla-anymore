@@ -21,6 +21,10 @@ file = "config/citresewn.json"
 hash = "1ea03400477ac2075d61ae58cfc573bc78ce954507d090ab69547de279918656"
 
 [[files]]
+file = "config/craftpresence.properties"
+hash = "39396d62371c87eac0358069c48eda8ba1a6732594e57205781316277d151780"
+
+[[files]]
 file = "config/custom-hud/config.json"
 hash = "d3edcc8cc6e1a965fd20ee116dcfffdb4f940abf89fa11584c05817bb2d1fc2f"
 
@@ -54,7 +58,7 @@ hash = "f12df234656cc4da3c196dac08d5fa3c0c36867923f0211dd0b4277195f654a5"
 
 [[files]]
 file = "config/ok_zoomer/config.toml"
-hash = "459ebf58f5cf7f79f0c918ae2d2a33e5349fe0c147810c9ba6af8d1184bdba0c"
+hash = "b1580e4110e8413196a6ecf56bffda26e2a60afe3515e7e0653aafb0d30c5675"
 
 [[files]]
 file = "config/puzzle.json"
@@ -340,4 +344,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "d0a93aa7e3990efd874de98df6248f307f560ce09de05280176b9a3182630acd"
+hash = "f4c09e3d4033b5ba2d871014841fa7fd16f2dbbf4b3202fba2fa66345263f62e"
