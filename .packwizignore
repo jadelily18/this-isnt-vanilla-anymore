@@ -2,4 +2,9 @@
 *.zip
 *.mrpack
 
-/README.md
+README.md
+/icon.png
+
+# exclude aseprite project files
+aseprite
+
