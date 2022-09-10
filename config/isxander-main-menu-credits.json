@@ -1,0 +1,36 @@
+{
+    "main_menu": {
+      "top_left": [
+      
+      ],
+      "top_right": [
+      
+      ],
+      "bottom_left": [
+        "Jade's Performance Plus v1.0.0"
+      ],
+      "bottom_right": [
+      
+      ],
+      "mod_blacklist": [
+  
+      ]
+    },
+    "pause_menu": {
+      "top_left": [
+      
+      ],
+      "top_right": [
+      
+      ],
+      "bottom_left": [
+        "Jade's Performance Plus v1.0.0"
+      ],
+      "bottom_right": [
+      
+      ],
+      "mod_blacklist": [
+  
+      ]
+    }
+  }

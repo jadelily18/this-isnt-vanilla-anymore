@@ -1,0 +1,16 @@
+name = "Jade's Performance Plus"
+author = "jadelily18"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c5e26010f473fa1ea28098db42e1bde4a1168accf8da830d10e6a4238396d3ba"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.17.5-beta.2"
+
+[options]
+acceptable-game-versions = ["1.19", "1.19.1", "1.19.2"]

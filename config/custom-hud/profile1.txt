@@ -1,0 +1,6 @@
+==Section:TopLeft==
+{{fps >= 60, "&{#FFf29ff5}","{{fps < 30, '&c', '&e'}}"}}{fps}&f fps
+&cX&aY&bZ: &f{bx} {by} {bz}
+&{#FFf29ff5}Facing: &f{facing}
+&{#FFf29ff5}Biome: &f{biome} &7&o({dimension}) {{slime_chunk,"&bSlime Chunk!"}}
+&{#FFf29ff5}Local Difficulty: &f{local_difficulty} &7// &f{clamped_local_difficulty}
