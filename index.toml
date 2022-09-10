@@ -54,7 +54,7 @@ hash = "0430b83e0962a1c5726c507e2771112af64badeb010c49638e2e717bce0ecfab"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "f12df234656cc4da3c196dac08d5fa3c0c36867923f0211dd0b4277195f654a5"
+hash = "ae3259e2a95d519363e6fc688c1393c8a0b4f834c681d8360bad8b479b98b0da"
 
 [[files]]
 file = "config/ok_zoomer/config.toml"
