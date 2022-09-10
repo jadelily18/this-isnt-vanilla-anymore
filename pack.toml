@@ -1,6 +1,6 @@
 name = "Jade's Parity Plus"
 author = "jadelily18"
-version = "1.0.0+1.19.2"
+version = "1.0.1+1.19.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
