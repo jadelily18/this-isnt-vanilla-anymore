@@ -49,12 +49,16 @@ file = "config/entityculling.json"
 hash = "0c78e42bc9ee8629e05830c89b882382dfa24c772c9b5a16d91225e1c63b11ad"
 
 [[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "c84f2753d40fee8d84a2985def8460a1ac2e239167b0e8364678d9a7083820f8"
+
+[[files]]
 file = "config/iris.properties"
 hash = "0430b83e0962a1c5726c507e2771112af64badeb010c49638e2e717bce0ecfab"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "d09b5dc6cd158d4e69b318690e65fa5e9544e076a5e4fec88102acf51cee7b6d"
+hash = "0ad4370fea06283114affac1f11be953a164762c8cfea63b0afdf2eed002220a"
 
 [[files]]
 file = "config/ok_zoomer/config.toml"
@@ -63,6 +67,10 @@ hash = "b1580e4110e8413196a6ecf56bffda26e2a60afe3515e7e0653aafb0d30c5675"
 [[files]]
 file = "config/puzzle.json"
 hash = "b562484e864d9d2f28e1dbded720cff7ada38a252f9234a2a0e22353c0032b77"
+
+[[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "628cba68ea9353441fcdd844480f4d75c614402d6e3e9ae532cd4ee6b538d2ee"
 
 [[files]]
 file = "config/sodium-extra-options.json"
@@ -84,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "75dcdffc0d37e098ef12f1b149d68182337372e2d48653ffe0389b94b357a0de"
+hash = "bc08ed290f7c076e8297b38f80af9694aa5972318ef29a99693a3e297b76f386"
 metafile = true
 
 [[files]]
@@ -114,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "c47b4e6dea49ed224870b70e2101f7dfea59c63490cca1d5f5a1dd43b18c56ef"
+hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
 metafile = true
 
 [[files]]
@@ -169,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "64c1850452da25bf925b8c8489e3d694b0a9538eb8797e426b88be401db6e034"
+hash = "76a5d61442e06180aede0b5cf457f04b471b37d85a8631726d550f9309b2ddeb"
 metafile = true
 
 [[files]]
@@ -194,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "59c8274b76d6b09e5cb16939ed8adbe8e2d38eadc85682125d6a9ede6653bcd2"
+hash = "c3abf99ceae59c52190eff3132d949073ef39594ce38a0e90a98eca835a0efc4"
 metafile = true
 
 [[files]]
@@ -274,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
-hash = "01efbdcb32ff6e70b6777e26df46bbe3c6c5aecb3e0c81797d234dfad9e0568d"
+hash = "cd2704a99b24207489be8c2b19167e04e241fc4385985fbb3761eda1ed92d26f"
 metafile = true
 
 [[files]]
@@ -309,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "79c8f0a39cb0d8e3b30341ad4190b81b283abb8f117adfb539506042e08e4f7e"
+hash = "01e23be2b0b85c174b6fdf2b561aee7299e4fd1bf7170945ab23b4bdafcce86a"
 metafile = true
 
 [[files]]
@@ -339,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "384db5afaa94a13943daf8c346acb479e5367abb712890a5bc99a5da4922b45c"
+hash = "426c6d6cf3ce529aecebaa964b82eb9332e9afdbc326583b45633d032df4ca69"
 metafile = true
 
 [[files]]
