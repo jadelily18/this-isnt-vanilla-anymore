@@ -1,12 +1,12 @@
 name = "Jade's Parity Plus"
 author = "jadelily18"
-version = "2.0.0+1.19.2"
+version = "2.0.1+1.19.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f250995044b7418e119995f04e4e3f5d1726d5440c767316765a7f369221fd3b"
+hash = "ce8ae4856c33539a97ad0af4bf484ec3358d43583a580e05cda5e5a5be25ad8d"
 
 [versions]
 minecraft = "1.19.2"
