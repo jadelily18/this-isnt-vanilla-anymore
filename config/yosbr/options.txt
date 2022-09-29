@@ -10,9 +10,10 @@ maxFps:180
 fullscreen:true
 
 key_key.saveToolbarActivator:key.keyboard.unknown
+key_key.togglePerspective:key.keyboard.r
 key_key.screenshot:key.keyboard.unknown
 key_key.fabrishot.screenshot:key.keyboard.f2
-key_key.togglePerspective:key.keyboard.r
+key_iris.keybind.reload:key.keyboard.unknown
 autoJump:false
 
 soundCategory_master:0.65

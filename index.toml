@@ -66,7 +66,7 @@ hash = "0430b83e0962a1c5726c507e2771112af64badeb010c49638e2e717bce0ecfab"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "acc6ea22761031962c88ca185dfdf9108928f328c6039dbe22057311aca29662"
+hash = "cbe3787709fcf42fa9f0c4dcf5feff2b61e0b47dc8373b82294db2f7adb7003a"
 
 [[files]]
 file = "config/ok_zoomer/config.toml"
@@ -83,6 +83,10 @@ hash = "8b6e02b5060fc52fb01f2eb486ad3b995129084aea2b53e4416125323757880e"
 [[files]]
 file = "config/sodium-options.json"
 hash = "52fa21d31fc7a3f71311430a38f783f63923ebe84fc19823b7a5c2a087a45cf7"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "08952b9c86362e21fe9806db09fdfb99a5f3649a717d6c6dff80e08a52cbda1f"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -433,7 +437,3 @@ metafile = true
 file = "mods/yosbr.pw.toml"
 hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "49b3523029c4ec84979281ebf577426e85405e54993b236e631dce426851c17e"
