@@ -3,10 +3,9 @@
 # This Isn't Vanilla Anymore
 [![GitHub](https://img.shields.io/github/license/jadelily18/this-isnt-vanilla-anymore?style=flat-square)](https://github.com/jadelily18/this-isnt-vanilla-anymore/blob/master/LICENSE)
 
-This is my personal modpack that I use in Minecraft: Java Edition. It includes a variety of performance and quality-of-life mods that I like to use, while also trying to offer as much parity with OptiFine as possible! You can (eventually) find it on Modrinth or through GitHub releases!
-
+Forked from [Jade's Parity Plus](https://github.com/jadelily18/jades-parity-plus), this modpack aims to offer pretty much everything it can whilst still being client-side only and "vanilla-ish".
 ## Contributing
-Feel free to contribute or fork this repository! I can't guaruntee I'll accept your pull request, but if I like the changes, I might! You can find my modpack contribution guide [here](https://docs.lilydev.com). (temp link!! guide itself doesn't exist yet!)
+Feel free to contribute or fork this repository!
 
 ## License
 Licensed under [GNU General Public License v3.0](https://github.com/jadelily18/this-isnt-vanilla-anymore/blob/master/LICENSE).
