@@ -1,4 +1,4 @@
-![This Isn't Vanilla Anymore Icon](https://github.com/jadelily18/this-isnt-vanilla-anymore/blob/master/icon.png)
+<img src="https://github.com/jadelily18/this-isnt-vanilla-anymore/blob/master/icon.png" alt="This Isn't Vanilla Anymore Icon" width="128" />
 
 # This Isn't Vanilla Anymore
 [![GitHub](https://img.shields.io/github/license/jadelily18/this-isnt-vanilla-anymore?style=flat-square)](https://github.com/jadelily18/this-isnt-vanilla-anymore/blob/master/LICENSE)
