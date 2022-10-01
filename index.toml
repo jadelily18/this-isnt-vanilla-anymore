@@ -109,6 +109,11 @@ hash = "242e18d68cb8d218df43e713e97239631f8612384789068659c4898cfa49fcef"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "bc08ed290f7c076e8297b38f80af9694aa5972318ef29a99693a3e297b76f386"
 metafile = true
@@ -116,6 +121,11 @@ metafile = true
 [[files]]
 file = "mods/auth-me.pw.toml"
 hash = "fada6c5111be510ce9dcda58588edd0d694e11bc040fcc2afe0586e8560abb49"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "c59209e703e553f58306aa1a66dc30a58476f89ad2d40da540508dc72fe0311f"
 metafile = true
 
 [[files]]
@@ -204,6 +214,11 @@ hash = "6e94a2241d03fff4d1eef01a82f161f741a76bc61d02ead1dcfeda76e84a815b"
 metafile = true
 
 [[files]]
+file = "mods/eating-animation.pw.toml"
+hash = "f52293cc81b07666eeee3bfcf5f34039e2d2bc64cd22416b5cbdb554eec17a0e"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "855e5f89a1c2d225f10927dd9bdd06aaffbc0c59b6d2c525460db6f1c9742ad5"
 metafile = true
@@ -276,6 +291,11 @@ metafile = true
 [[files]]
 file = "mods/item-model-fix.pw.toml"
 hash = "b893248407cbc155a5182b151acf50df075cef08bd0a9470c222425e8e47a809"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "dadcde5442ffdd9755166893fbf6985409908d469a557788301523c16c6e6ebc"
 metafile = true
 
 [[files]]
@@ -389,6 +409,16 @@ hash = "1c6d01b013b9e8c6dd921046adc7c7768814c17a0fde45cbe695c8e2de40f8be"
 metafile = true
 
 [[files]]
+file = "mods/replaymod.pw.toml"
+hash = "79721c68c3475400efab4fc288cc27e13d4337f649e1ca09527258c5abb49c52"
+metafile = true
+
+[[files]]
+file = "mods/roundaround-axolotl-buckets.pw.toml"
+hash = "af4a3b3293422552cbc310bc7c83b99e1d8b4228a195b43294d257fd62208088"
+metafile = true
+
+[[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "8cee882d886709a92b1c2ba19e6c5d1a55da9cc6ed79b78d62eec98b5b768588"
 metafile = true
@@ -426,6 +456,11 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "f890affbc81dd0b392971738eb723aae198b554be6439feb6fa819ebdf7ba975"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "de08ce31ccfbd64fb308ddb0d1076d4e6cd65ac43bd6a16e57e01a1d14336428"
 metafile = true
 
 [[files]]
