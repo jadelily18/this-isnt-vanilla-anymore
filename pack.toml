@@ -1,12 +1,12 @@
 name = "This Isn't Vanilla Anymore"
 author = "jadelily18"
-version = "0.1.0+1.19.2"
+version = "0.1.2+1.19.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "dd79a2271de2bbfd29a4aeb956a0f5a788ef131de3f8887e9d4fab011ad7a8c9"
+hash = "f10969167ae7f847fbde648dd393cae572f867886d8b62ac95a2138b0d26c1ea"
 
 [versions]
 minecraft = "1.19.2"

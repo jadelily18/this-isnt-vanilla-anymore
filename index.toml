@@ -66,7 +66,7 @@ hash = "a4be4325e2749c861b843b3473fe931b0c88c1e6105edddff2b7e57d91fe94bd"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "6fca8b329e682ccc50ece0c4d285047f47af639232a27a7086702d26d0458f09"
+hash = "01025216c8ff7dd9f3a660291d6932f9ec24cce8aff4b79921e22f740deca837"
 
 [[files]]
 file = "config/ok_zoomer/config.toml"
@@ -77,12 +77,28 @@ file = "config/puzzle.json"
 hash = "b562484e864d9d2f28e1dbded720cff7ada38a252f9234a2a0e22353c0032b77"
 
 [[files]]
+file = "config/replaymod.json"
+hash = "0cdb650228c159f77a3d3f059b3275ed4ffe2e1434637ce1348c171556603d98"
+
+[[files]]
 file = "config/sodium-extra-options.json"
 hash = "8b6e02b5060fc52fb01f2eb486ad3b995129084aea2b53e4416125323757880e"
 
 [[files]]
 file = "config/sodium-options.json"
 hash = "52fa21d31fc7a3f71311430a38f783f63923ebe84fc19823b7a5c2a087a45cf7"
+
+[[files]]
+file = "config/waila/blacklist.json"
+hash = "640800920130d084dec5a3a7f52c10e18d72ed7faca522b5bcb6bb46d0dcae9b"
+
+[[files]]
+file = "config/waila/waila.json"
+hash = "6b2f4d36b09c66bd8254ba64251c8188c9da6451ba8b0316f5d622463a8ffcad"
+
+[[files]]
+file = "config/waila/waila_plugins.json"
+hash = "78fb335eba82a3510f0c1a522e5c02757d7d4e8d46417a329ebbbf398750e527"
 
 [[files]]
 file = "config/yosbr/options.txt"
