@@ -6,7 +6,7 @@ hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
 
 [[files]]
 file = "config/betterf3.json"
-hash = "4e41dfc84047d92a645d9ca3c0ddf06036277ca739d85fbabc5c75ba11886f2d"
+hash = "257dea73911bbdd47ab617446649debbed9ca0bf0e08da025e6bb81e286ebbdb"
 
 [[files]]
 file = "config/blur.json"
@@ -18,7 +18,7 @@ hash = "97d88071650e42b4c23540a24de6c7d5d72febd593efd33f7290a9352c169cfe"
 
 [[files]]
 file = "config/capes.json5"
-hash = "26f7730b69277b55dc6346922a581b76375bb6166e0b132e4539f26cccf059aa"
+hash = "b0e11760190870b23a50e68018a3792e6ad3929302bb2917db21268a20f858af"
 
 [[files]]
 file = "config/citresewn.json"
@@ -46,7 +46,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/emi.css"
-hash = "6cbfcf74a41d25de57e61aef6bcfab095205e066ced283ebee5e18bad98af31a"
+hash = "eabec6c232192b18820a75b669a26273fc8caae3310a525d236551cc93e86af0"
 
 [[files]]
 file = "config/entity_texture_features.json"
@@ -62,11 +62,11 @@ hash = "f67a43608640547ffc870307cf8e92e4d6ef303971e71ea9b9fde475577cf24b"
 
 [[files]]
 file = "config/iris.properties"
-hash = "0430b83e0962a1c5726c507e2771112af64badeb010c49638e2e717bce0ecfab"
+hash = "a4be4325e2749c861b843b3473fe931b0c88c1e6105edddff2b7e57d91fe94bd"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "cbe3787709fcf42fa9f0c4dcf5feff2b61e0b47dc8373b82294db2f7adb7003a"
+hash = "6fca8b329e682ccc50ece0c4d285047f47af639232a27a7086702d26d0458f09"
 
 [[files]]
 file = "config/ok_zoomer/config.toml"
